@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+.Email{
+	color:#00F;
+	font-weight:bold;
+	font-size:15px;
+	font-family:Verdana, Geneva, sans-serif;}
+	
+.msg{
+	color:#390;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:15px;}
+	
+.button{
+	text-align:center;
+	background-color:#00F;
+	border-width:2px;
+	border-style:solid;
+	border-color:#000;
+	color:#FFF;
+	padding-left:10px;
+	padding-right:10px;
+	text-decoration::none;}
+#imageload{
+	display:none;}	
